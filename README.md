@@ -24,6 +24,26 @@ This project is a web-based shop application built using React. It allows users 
 - CartModal Component: A modal that shows the shopping cart’s contents with buttons to update item quantities.
 - Cart Component: Displays all items in the cart, including their quantity, and allows users to increase or decrease the quantity.
 
+📝 Installation
+To run this project locally:
+
+Clone the repository:
+
+```git clone https://github.com/your-username/web-shop-prop-drilling.git```
+
+Navigate to the project directory:
+
+```cd web-shop-prop-drilling```
+
+Install the dependencies:
+
+```npm install```
+
+Start the development server:
+
+```npm start```
+
+
 🚧 Future Improvements
 * Global State Management: Implementing a context API or Redux to handle state across components more efficiently.
 * Additional Features: Add functionality for a product checkout process and user authentication.
